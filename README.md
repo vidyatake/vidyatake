@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidyatake" alt="vidyatake" /></a> </p>
 
-- 🔭 I’m currently working on **portfolio website**
-
 - 🌱 I’m currently learning **advance java**
 
 - 👯 I’m looking to collaborate on **Java-full stack projects**
@@ -15,7 +13,7 @@
 
 - 💬 Ask me about **Html,Css,Bootstrap,Java(OOP)**
 
-- 📫 How to reach me **vidyatake111@gmail.com**
+- 📫 How to reach me **vidyatake22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
